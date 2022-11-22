@@ -51,7 +51,7 @@ INSERT INTO trader (nom, classe_actif, anneeExperience, nomEquipe) VALUES
 INSERT INTO equipe (nom, style, chef) VALUES
 ('equipe1', 'market making', 'leonardo'),
 ('equipe2', 'arbitrage', 'michaelgelo'),
-('equipe3', 'trading de volatile', 'raphael'),
+('equipe3', 'trading de volatilite', 'raphael'),
 ('equipe4', 'trading haute frequence', 'donatello'),
 ('equipe5', 'arbitrage statistique', 'Smith'),
 ('equipe6', 'arbitrage statistique', 'Smith'),
