@@ -229,3 +229,9 @@ AND nomEquipe IN (
     WHERE date = '2016-01-01'
 );
 ```
+
+## BTP
+
+### Modèle MCD : 
+
+![image](https://user-images.githubusercontent.com/102285741/203565220-5c558fe1-da89-4dc7-9b09-f9aaa4b40a07.png)
